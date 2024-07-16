@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>creativity Hub</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to creativity Hub</h1>
+        <p>Unleash your imagination and bring your ideas to life!</p>
+        <a href="#explore" class="cta-button">Explore Now</a>
+    </header>
+    
+    <section id="explore">
+        <h2>What We Offer</h2>
+        <div class="features">
+            <div class="feature">
+                <h3>Workshops</h3>
+                <p>Join our hands-on workshops to boost your skills.</p>
+            </div>
+            <div class="feature">
+                <h3>Community</h3>
+                <p>Connect with like-minded individuals and share your ideas.</p>
+            </div>
+            <div class="feature">
+                <h3>Resources</h3>
+                <p>Access a library of materials to inspire your next project.</p>
+            </div>
+        </div>
+    </section>
+    
+    
+</body>
+</html>
